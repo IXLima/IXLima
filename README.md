@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @IXLima
-- 👀 I’m interested in Learn everything about technology and how to use them to improve our present
-- 🌱 I’m currently learning Python, Big data and Create Softwares
+# About MySelf
+- 👋 Hi, Felipe Lima
+
+- 👀 I’m interested in Learn everything about technology specially **CyberSecurity**
+
+- 🌱 I’m currently learning Python, creating some softwares and practicing some bootcamps
+
 - 💞️ I’m looking to collaborate on Networks and Data 
-- 📫 How to reach me: My Instagram fs.limaz
+
+- 📫 How to reach me: [Instagram](https://www.instagram.com/felps_sene.lima?igsh=MWpsNnptMzFtMDlsdw==)
+
+
 
 <!---
 IXLima/IXLima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
