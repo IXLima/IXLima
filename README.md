@@ -7,7 +7,7 @@
 
 - 💞️ I’m looking to collaborate on Networks and Data 
 
-- 📫 How to reach me: [Instagram](https://www.instagram.com/felps_sene.lima?igsh=MWpsNnptMzFtMDlsdw==)
+- 📫 How to reach me: [**Instagram**](https://www.instagram.com/felps_sene.lima?igsh=MWpsNnptMzFtMDlsdw==)  -  [**LinkedIn**](https://www.linkedin.com/in/felipe-lima-888210266/)
 
 
 
